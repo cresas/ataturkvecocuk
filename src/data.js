@@ -22,8 +22,8 @@ var activityData = {
             {
                 "ENUNCIADO": "Ata’mızdan armağan, Bu bayram çocuklara. Tüm çocuklar el ele, ……………………… yarınlara.",
                 "RESPUESTAS": [
-                    {"RESPUESTA": "yürüyoyoruz", "RESPUESTA_CORRECTA": "no"},
-                    {"RESPUESTA": "Yürüyoruz", "RESPUESTA_CORRECTA": "si"}
+                    {"RESPUESTA": "yürüyoruz", "RESPUESTA_CORRECTA": "si"},
+                    {"RESPUESTA": "Yürüyoruz", "RESPUESTA_CORRECTA": "no"}
                 ]
             },
             {
@@ -45,8 +45,8 @@ var activityData = {
                 "ENUNCIADO": "Atatürk’ün en sevdiği atının adı ………………………….",
                 "RESPUESTAS": [
                     {"RESPUESTA": "sakarya’dır.", "RESPUESTA_CORRECTA": "no"},
-                    {"RESPUESTA": "Sakarya’dır.", "RESPUESTA_CORRECTA": "no"},
-                    {"RESPUESTA": "sakaryadır", "RESPUESTA_CORRECTA": "si"}
+                    {"RESPUESTA": "Sakarya’dır.", "RESPUESTA_CORRECTA": "si"},
+                    {"RESPUESTA": "sakaryadır", "RESPUESTA_CORRECTA": "no"}
                 ]
             },
             {
